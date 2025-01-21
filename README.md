@@ -1,5 +1,5 @@
 # Foro Hub
-
+![Imagen de portada del proyecto](/portada.png)
 
 ## Descripción
 
